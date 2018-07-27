@@ -328,6 +328,9 @@ display: flex;
 	.activechat{
 		background-color: #FFFFFF;
 	}
+	.scroll{
+		height: 80vh;
+	}
 }
 
 @media only screen and (max-width: 991px){
