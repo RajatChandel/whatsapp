@@ -5,11 +5,13 @@ body{
 	margin: 0;
 	padding: 0;
 
+
 }
 .cardactive{
 	background-color: #E0E0E0;
 }
 .cardactive1{
+	
 	background-color: #E0E0E0;
 }
 .edit{
@@ -164,8 +166,8 @@ justify-content: center;
 align-items: center;
 }
 .pic2{
-	height: 30px;
-	width: 30px;
+	height: 5vmin;
+	width: 5vmin;
 	
 
 }
@@ -289,7 +291,7 @@ height: 75px;
    
 	display: flex;
 	flex-direction: row;
-	width: 300px;
+	width: 170px;
 }
 .not{
 margin-top: 2px;
@@ -316,14 +318,18 @@ display: flex;
     max-height: 78vh;
     overflow-y: scroll;
 }
+.footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+
+}
 @media only screen and (max-width: 767px){
 
 	.cardactive{
 		background-color: #FFFFFF;
 	}
-	.cardactive1{
-		background: #FFFFFF;
-	}
+	
 	.activechat{
 		background-color: #FFFFFF;
 	}
