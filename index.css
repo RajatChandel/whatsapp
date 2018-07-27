@@ -316,6 +316,18 @@ display: flex;
     max-height: 78vh;
     overflow-y: scroll;
 }
+@media only screen and (max-width: 767px){
+
+	.cardactive{
+		background-color: #FFFFFF;
+	}
+	.cardactive1{
+		background: #FFFFFF;
+	}
+	.activechat{
+		background-color: #FFFFFF;
+	}
+}
 
 
 
