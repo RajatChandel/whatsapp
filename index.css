@@ -310,12 +310,12 @@ display: flex;
 }
 .scroll
 {
-    max-height: 72vh;
+    max-height: 69vh;
     overflow-y: scroll;
 }
 .scrollpage
 {
-    max-height: 72vh;
+    max-height: 69vh;
     overflow-y: scroll;
 }
 .footer{
