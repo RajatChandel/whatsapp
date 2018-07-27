@@ -65,12 +65,7 @@ border-radius: 1vh;
 	margin: 6px;
 
 }
-.chatareapage{
 
-height: 80vh;
-
-
-}
 .chatcardpage{
 	max-width: 68vw;
 	margin:15px;
@@ -239,7 +234,7 @@ height: 75px;
 }
 .chatareapage{
 	background-image: url('appback.png');
-	height: 90vh;
+	height: 80vh;
 	border: 1px solid #E0E0E0;
 }
 .profilee{
