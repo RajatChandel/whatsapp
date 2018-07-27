@@ -27,8 +27,8 @@ body{
 }
 .edit2{
     width: inherit;
-    height: 10vh;
-	margin-top: 10px;
+    
+	
     
     border-radius: 10px;
     display: flex;
@@ -334,6 +334,9 @@ display: flex;
 
 	.profile{
 		margin-left: 12vw;
+	}
+	.chatarea2{
+		height: 90vh;
 	}
 }
 
