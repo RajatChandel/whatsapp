@@ -23,6 +23,17 @@ body{
     justify-content: space-around;
 
 }
+.edit2{
+    width: inherit;
+    height: 10vh;
+	margin-top: 10px;
+    
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
 .card{
 
   flex-direction: row;
@@ -158,6 +169,18 @@ align-items: center;
 	
 
 }
+.pic6{
+	height: 50px;
+	width: 50px;
+	position: relative;
+	margin-bottom: 90px;
+
+	display: flex;
+	align-self: center;
+	
+	
+
+}
 .btn{
 background-color: #E0E0E0;
 border:0;
@@ -222,7 +245,7 @@ height: 75px;
 	align-self: center;
 	
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: space-around;
     
 	
@@ -259,6 +282,9 @@ height: 75px;
 	flex-direction: row;
 	
 }
+.text-muted{
+	margin-right: 20px;
+}
 .message2{
    
 	display: flex;
@@ -273,9 +299,11 @@ margin-top: 2px;
 
 }
 .profile{
+
     margin-top: 8vh;
 	height: 30vh;
-
+flex-direction: row;
+display: flex;
 }
 .scroll
 {
